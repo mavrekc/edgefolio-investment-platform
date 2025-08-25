@@ -1,0 +1,56 @@
+{
+  "name": "edgefolio-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@reduxjs/toolkit": "^2.5.0",
+    "@tabler/icons-react": "^3.34.1",
+    "axios": "^1.8.4",
+    "bootstrap": "^5.3.3",
+    "cra-template": "1.2.0",
+    "dayjs": "^1.11.13",
+    "echarts": "^5.6.0",
+    "i18next": "^25.3.2",
+    "i18next-browser-languagedetector": "^8.2.0",
+    "i18next-http-backend": "^3.0.2",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.525.0",
+    "next-themes": "^0.4.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
+    "react-i18next": "^15.6.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.28.1",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.10.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint \"src/**/*.{js,jsx}\"",
+    "format": "prettier --write \"src/**/*.{js,jsx}\""
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^10.1.5",
+    "eslint-plugin-prettier": "^5.4.1",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.2.0",
+    "prettier": "^3.5.3"
+  }
+}

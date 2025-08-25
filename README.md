@@ -1,0 +1,2 @@
+# edgefolio-investment-platform
+A web app for investors to invest in stocks and funds, track performance and details, manage portfolios, and submit buy/sell requests. Simple and straightforward for effective wealth management.
